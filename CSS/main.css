@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navb{
+    background-color:  #cc0000;
+    color: white;
+}
+jumbotron{
+    text-align: center;
+    background-color: white;
+}
+
+section{
+    padding: 0px 20px;
+        margin-bottom: 120px;
+
+}
+
+.foot{
+
+    text-align: center;
+}
